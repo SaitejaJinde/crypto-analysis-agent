@@ -1,0 +1,14 @@
+Ignore Python virtual environments
+
+venv/
+pycache/
+
+Ignore environment files that might contain secret keys
+
+.env
+*.env
+
+Ignore IDE-specific files and directories
+
+.idea/
+.vscode/
